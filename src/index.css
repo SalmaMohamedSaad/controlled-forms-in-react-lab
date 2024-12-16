@@ -90,6 +90,9 @@ input {
   flex-wrap: wrap;
   width: 90%;
   margin-top: 20px;
+  background-color: darkslategray;
+  border-style: solid;
+  border-color: aqua;
 }
 
 .bookCard {
